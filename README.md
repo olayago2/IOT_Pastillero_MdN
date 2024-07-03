@@ -89,61 +89,15 @@ A continuación, se muestra el esquemático para consultar conexiones:
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot_19-6-2024_232017_easyeda.com.jpeg" width="1000"  style="margin: 10px;"/>
+  <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/cabledo_comentado.jpg" width="1000"  style="margin: 10px;"/>
   
-  <em>Esquemático del salero memorístico</em>
+  <em>Esquemático del pastillero </em>
 </div>
 <br/>
 
 ___
 
-## PCB personalizada
 
-En la carpeta [`Salero-MdN/tree/main/pcb`](https://github.com/99danirmoya/Salero-MdN/tree/main/pcb) se encuentran los archivos Gerber para su fabricación:
-
-<div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot_19-6-2024_183655_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
-
-  <em>Vista posterior de la PCB</em>
-</div>
-<br/>
-
-<div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot_19-6-2024_183749_easyeda.com.jpeg" width="600"  style="margin: 10px;"/>
-
-  <em>Vista anterior de la PCB</em>
-</div>
-<br/>
-
-___
-
-### <p align="justify"> Flujograma </p>
-
-```mermaid
-graph TD;
-  A[Configuración inicial: LEDs apagados] -->|1| B(Se echa sal)
-  G -->|15| S(Sleep mode)
-  S -->|16| T(INTERRUPCIÓN)
-  T -->|17| B
-  B -->|2| H(Se enciende el primer LED)
-  H -->|3| I(¿Se echó sal de nuevo en la última hora?)
-  I -->|4| J(Sí)
-  I -->|5| K(No)
-  K -->|12| G(Se apagan los LEDs)
-  J -->|6| L(Se añade el segundo LED)
-  L -->|7| M(¿Se echó sal de nuevo en la última hora?)
-  M -->|8| N(Sí)
-  M -->|10| O(No)
-  N -->|9| P(Se añade el tercer LED)
-  O -->|13| G
-  P -->|11| R(Pasa 1 hora)
-  R -->|14| G
-  
-```
-
-___
-
-<div align="justify">
 
 ## Carcasa a medida
 
@@ -209,4 +163,4 @@ ___
 </div>
 <br/>
 
-_<p align="justify"> Autores: Daniel Rodríguez Moya, medialab\_, y el grupo de trabajo de TicLab Jóven Ocúpate, Mar de Niebla :shipit: </p>_
+_<p align="justify"> Autores: Celia Barriocanal García, medialab\_, y el grupo de trabajo de TicLab Jóven Ocúpate, Mar de Niebla :shipit: </p>_
