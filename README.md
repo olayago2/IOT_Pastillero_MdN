@@ -123,7 +123,7 @@ Proceso de creación del pastillero inteligente: Para la creación del pastiller
     .image-container {
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-items: flex-start;
       gap: 20px; /* Espacio entre las imágenes */
     }
     .image-container div {
@@ -144,6 +144,7 @@ Proceso de creación del pastillero inteligente: Para la creación del pastiller
   </div>
 </body>
 </html>
+
 
 
 <div align="center">
