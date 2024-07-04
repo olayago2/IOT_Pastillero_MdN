@@ -81,13 +81,13 @@ ___
 
 | Componente | Unidades |
 | ------------- | ------------- |
-| ESP32         | -------1------- |
-| Buzzer        | -------1 -------|
-| Botón         | -------1------- |
-| Real time clock DS3231 |------- 1------- |
-| Tira led |------- 21 LEDs -------|
+| ESP32         |        1         |
+| Buzzer        |        1         |
+| Botón         |        1         |
+| Real time clock DS3231 |        1        |
+| Tira led |        21 LEDs        |
 
-</div>
+</div align="center">
 
 <div align="center">
 
