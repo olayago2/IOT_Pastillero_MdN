@@ -85,6 +85,7 @@ ___
 | ESP32 | 1 |
 | Buzzer | 1 |
 | Botón | 1 |
+| Real time clock DS3231 | 1 |
 | Tira led | 21 LEDs |
 
 </div>
@@ -110,28 +111,28 @@ ___
 
 
 
-## Carcasa a medida
+## Antecedentes
 
 En la carpeta [`Salero-MdN/tree/main/housing`](https://github.com/99danirmoya/Salero-MdN/tree/main/housing) se incluyen los tres archivos ".stl" que se muestran a continuación:
 
 </div>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot%202024-03-11%20191934.png" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/pasti_entero.png" width="600"  style="margin: 10px;"/>
 
-  <em>Dosificador</em>
+  <em>Estructura sin cajones</em>
 </div>
 <br/>
   
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot%202024-03-11%20191914.png" width="600"  style="margin: 10px;"/>
+  <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/pasti_cajon.PNG" width="600"  style="margin: 10px;"/>
 
-  <em>Recipiente de sal</em>
+  <em>Cajón</em>
 </div>
 <br/>
   
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/Screenshot%202024-03-11%20191955.png" width="600"  style="margin: 10px;"/>
+  <img src="" width="600"  style="margin: 10px;"/>
 
   <em>Contenedor de electrónica</em>
 </div>
