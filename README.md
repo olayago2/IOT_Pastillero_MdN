@@ -52,14 +52,15 @@ ___
   D -->|4| E(¿Se tomó la pastilla?)
   E -->|5| F(No)
   E -->|6| G(Sí)
-  F -->|7| H(Se enciende LED naranja)
-  H -->|8| I(Suena melodía nuevamente)
-  I -->|9| E
-  G -->|10| J(LEDs apagados hasta la próxima toma)
-  J -->|11| B
-  I -->|12| K(Siguiente hora de toma)
-  K -->|13| L(Casilla anterior: LED rojo)
-  L -->|14| B
+  F -->|7| M(Pasado un tiempo)
+  M -->|8| H(Se enciende LED naranja)
+  H -->|9| I(Suena melodía nuevamente)
+  I -->|10| E
+  G -->|11| J(LEDs apagados hasta la próxima toma)
+  J -->|12| B
+  I -->|13| K(Siguiente hora de toma)
+  K -->|14| L(Casilla anterior: LED rojo)
+  L -->|15| B
 
   
 ```
