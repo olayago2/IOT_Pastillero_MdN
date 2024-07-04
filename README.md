@@ -113,7 +113,6 @@ ___
   A  principios de 2023, se inició un estudio de detección de necesidades entre los vecinos del Barrio Oeste. El equipo Ticlab de Mar de Niebla realizó encuestas para que los propios vecinos pudieran transmitir pequeñas dificultades que podrían resolverse con tecnología. Los datos obtenidos se discutieron en reuniones grupales y se compartieron con MediaLab para fijar un objetivo realizable y con repercusión directa en la comunidad. La decisión fue llevar a cabo dos proyectos que incluyeran diseño, electrónica y programación: uno es un salero y el otro es un pastillero.
 
 Proceso de creación del pastillero inteligente: Para la creación del pastillero inteligente, decidimos hacerlo modular, con dos módulos. El primer módulo es una pieza hueca con forma de semicírculo que contiene toda la electrónica. Tiene un bloque central de 5 cm de altura donde se coloca el Arduino con todo el cableado interno y una tira LED externa. A una altura de 3 cm, y con una separación de 2,4 cm, se encuentran los huecos para los siete botones. La pieza también tiene un encaje exterior para conectar los módulos de los depósitos de las pastillas. En total, la pieza mide 5 cm de alto y 12,8 cm de ancho.
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -145,6 +144,7 @@ Proceso de creación del pastillero inteligente: Para la creación del pastiller
   </div>
 </body>
 </html>
+
 
 <div align="center">
   <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/pasti_entero_montado_real.png" width="600"  style="margin: 10px;"/>
