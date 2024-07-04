@@ -145,8 +145,6 @@ Proceso de creación del pastillero inteligente: Para la creación del pastiller
 </body>
 </html>
 
-
-
 <div align="center">
   <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/pasti_entero_montado_real.png" width="600"  style="margin: 10px;"/>
 
