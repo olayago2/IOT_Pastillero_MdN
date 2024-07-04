@@ -24,10 +24,7 @@ ___
 - [Modo de funcionamiento](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#modo-de-funcionamiento)
 - [Lista de componentes](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#--lista-de-componentes-)
 - [Esquemático](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#esquem%C3%A1tico)
-- [PCB personalizada](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#pcb-personalizada)
-- [Flujograma](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-flujograma-)
-- [Carcasa a medida](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#carcasa-a-medida)
-- [Modo de implementación](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-modo-de-implementaci%C3%B3n-)
+- [Antecedentes](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#carcasa-a-medida)
 - [Licencia](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-licencia-)
 - [Contacto](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-contacto-)
 
@@ -62,7 +59,6 @@ ___
   K -->|14| L(Casilla anterior: LED rojo)
   L -->|15| B
 
-  
 ```
 
 ___
@@ -71,8 +67,11 @@ ___
 
 </div>
 
-> [!WARNING]
-> El pastillero está diseñado para permanecer enchufado en todo momento. En caso de desconectarse, su funcionamiento se reiniciará, lo que hará que todas las casillas queden apagadas hasta que se active la alarma correspondiente.
+<div style="border-left: 5px solid #f39c12; background-color: #fdf3e3; padding: 10px; margin: 20px 0;">
+  <strong>WARNING:</strong>
+  <p>El pastillero está diseñado para permanecer enchufado en todo momento. En caso de desconectarse, su funcionamiento se reiniciará, lo que hará que todas las casillas queden apagadas hasta que se active la alarma correspondiente.</p>
+</div>
+
 
 ___
 
@@ -90,7 +89,7 @@ ___
 
 </div>
 
-<div align="justify">
+<div align="center">
 
 ___
 
