@@ -20,13 +20,13 @@
 ___
 
 ## Índice
-- [Introducción](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#introducci%C3%B3n)
-- [Modo de funcionamiento](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#modo-de-funcionamiento)
-- [Lista de componentes](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#--lista-de-componentes-)
-- [Esquemático](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#esquem%C3%A1tico)
-- [Antecedentes](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#carcasa-a-medida)
-- [Licencia](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-licencia-)
-- [Contacto](https://github.com/99danirmoya/Salero-MdN/tree/main?tab=readme-ov-file#-contacto-)
+- [Introducción](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#introducci%C3%B3n)
+- [Modo de funcionamiento](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#modo-de-funcionamiento)
+- [Lista de componentes](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#modo-de-funcionamiento)
+- [Esquemático](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#esquem%C3%A1tico)
+- [Antecedentes](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#antecedentes)
+- [Licencia](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#antecedentes)
+- [Contacto](https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/README.md#antecedentes)
 
 ___
 
