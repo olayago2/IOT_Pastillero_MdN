@@ -45,7 +45,6 @@ ___
 ### <p align="justify"> Flujograma </p>
 
 ```mermaid
-graph TD;
  graph TD;
   A[Configuración inicial: LEDs apagados] -->|1| B(Hora de la toma)
   B -->|2| C(Se enciende LED verde)
