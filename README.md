@@ -11,7 +11,7 @@
 
 [![made-for-VSCode](https://img.shields.io/badge/Hecho%20con-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Build with PlatformIO](https://img.shields.io/badge/Compilado%20con-PlatformIO-orange?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMjUwMCIgaGVpZ2h0PSIyNTAwIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCI+PHBhdGggZD0iTTEyOCAwQzkzLjgxIDAgNjEuNjY2IDEzLjMxNCAzNy40OSAzNy40OSAxMy4zMTQgNjEuNjY2IDAgOTMuODEgMCAxMjhjMCAzNC4xOSAxMy4zMTQgNjYuMzM0IDM3LjQ5IDkwLjUxQzYxLjY2NiAyNDIuNjg2IDkzLjgxIDI1NiAxMjggMjU2YzM0LjE5IDAgNjYuMzM0LTEzLjMxNCA5MC41MS0zNy40OUMyNDIuNjg2IDE5NC4zMzQgMjU2IDE2Mi4xOSAyNTYgMTI4YzAtMzQuMTktMTMuMzE0LTY2LjMzNC0zNy40OS05MC41MUMxOTQuMzM0IDEzLjMxNCAxNjIuMTkgMCAxMjggMCIgZmlsbD0iI0ZGN0YwMCIvPjxwYXRoIGQ9Ik0yNDkuMzg2IDEyOGMwIDY3LjA0LTU0LjM0NyAxMjEuMzg2LTEyMS4zODYgMTIxLjM4NkM2MC45NiAyNDkuMzg2IDYuNjEzIDE5NS4wNCA2LjYxMyAxMjggNi42MTMgNjAuOTYgNjAuOTYgNi42MTQgMTI4IDYuNjE0YzY3LjA0IDAgMTIxLjM4NiA1NC4zNDYgMTIxLjM4NiAxMjEuMzg2IiBmaWxsPSIjRkZGIi8+PHBhdGggZD0iTTE2MC44NjkgNzQuMDYybDUuMTQ1LTE4LjUzN2M1LjI2NC0uNDcgOS4zOTItNC44ODYgOS4zOTItMTAuMjczIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzJzLTEwLjMyIDQuNjItMTAuMzIgMTAuMzJjMCAzLjc1NSAyLjAxMyA3LjAzIDUuMDEgOC44MzdsLTUuMDUgMTguMTk1Yy0xNC40MzctMy42Ny0yNi42MjUtMy4zOS0yNi42MjUtMy4zOWwtMi4yNTggMS4wMXYxNDAuODcybDIuMjU4Ljc1M2MxMy42MTQgMCA3My4xNzctNDEuMTMzIDczLjMyMy04NS4yNyAwLTMxLjYyNC0yMS4wMjMtNDUuODI1LTQwLjU1NS01Mi4xOTd6TTE0Ni41MyAxNjQuOGMtMTEuNjE3LTE4LjU1Ny02LjcwNi02MS43NTEgMjMuNjQzLTY3LjkyNSA4LjMyLTEuMzMzIDE4LjUwOSA0LjEzNCAyMS41MSAxNi4yNzkgNy41ODIgMjUuNzY2LTM3LjAxNSA2MS44NDUtNDUuMTUzIDUxLjY0NnptMTguMjE2LTM5Ljc1MmE5LjM5OSA5LjM5OSAwIDAgMC05LjM5OSA5LjM5OSA5LjM5OSA5LjM5OSAwIDAgMCA5LjQgOS4zOTkgOS4zOTkgOS4zOTkgMCAwIDAgOS4zOTgtOS40IDkuMzk5IDkuMzk5IDAgMCAwLTkuMzk5LTkuMzk4em0yLjgxIDguNjcyYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDkgMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OXoiIGZpbGw9IiNFNTcyMDAiLz48cGF0aCBkPSJNMTAxLjM3MSA3Mi43MDlsLTUuMDIzLTE4LjkwMWMyLjg3NC0xLjgzMiA0Ljc4Ni01LjA0IDQuNzg2LTguNzAxIDAtNS43LTQuNjItMTAuMzItMTAuMzItMTAuMzItNS42OTkgMC0xMC4zMTkgNC42Mi0xMC4zMTkgMTAuMzIgMCA1LjY4MiA0LjU5MiAxMC4yODkgMTAuMjY3IDEwLjMxN0w5NS44IDc0LjM3OGMtMTkuNjA5IDYuNTEtNDAuODg1IDIwLjc0Mi00MC44ODUgNTEuODguNDM2IDQ1LjAxIDU5LjU3MiA4NS4yNjcgNzMuMTg2IDg1LjI2N1Y2OC44OTJzLTEyLjI1Mi0uMDYyLTI2LjcyOSAzLjgxN3ptMTAuMzk1IDkyLjA5Yy04LjEzOCAxMC4yLTUyLjczNS0yNS44OC00NS4xNTQtNTEuNjQ1IDMuMDAyLTEyLjE0NSAxMy4xOS0xNy42MTIgMjEuNTExLTE2LjI4IDMwLjM1IDYuMTc1IDM1LjI2IDQ5LjM2OSAyMy42NDMgNjcuOTI2em0tMTguODItMzkuNDZhOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTkgOS4zOTggOS4zOTkgOS4zOTkgMCAwIDAgOS40IDkuNCA5LjM5OSA5LjM5OSAwIDAgMCA5LjM5OC05LjQgOS4zOTkgOS4zOTkgMCAwIDAtOS4zOTktOS4zOTl6bS0yLjgxIDguNjcxYTIuMzc0IDIuMzc0IDAgMSAxIDAtNC43NDggMi4zNzQgMi4zNzQgMCAwIDEgMCA0Ljc0OHoiIGZpbGw9IiNGRjdGMDAiLz48L3N2Zz4=)](https://platformio.org/)
 
-## Salero que detecta su propio uso y enciende un contador LED durante un tiempo de cortesía para recordar cuántas veces se ha añadido sal a la comida
+## Patillero automatizado para avisar al usuario de manera visual y sonora de cuando ha de tomarse la pastilla y cual
 
 </div>
 
@@ -34,16 +34,16 @@ ___
 ___
 
 ## Introducción
-Con el fin de cumplir objetivos de Jóven ocúpate reto TicLab 2024, el equipo de Mar de Niebla se puso en contacto con MediaLab UniOvi para colaborar en el desarrollo de dispositivos electrónicos que ayudásen a nuestros mayores.
+  Con el fin de cumplir los objetivos del programa "Jóven Ocúpate Reto TicLab 2024", el equipo de Mar de Niebla se puso en contacto con MediaLab UniOvi para colaborar en el desarrollo de dispositivos electrónicos destinados a ayudar a nuestros mayores.
 
-De esta manera, uno de los prototipos propuestos ha sido un pastillero  capaz de saber generar alarmas a las horas estipuladas para que el usuario tome la pastilla.Se considerán tres tomas: mañana, tarde y noche. En el momento adecuado se encenderá un LED verde en la casilla correspondiente y sonará una melodia para llamar la atención del usuario usuario. Pasado un tiempo prudencial, volverá sonar la melodia y la luz pasará naranja indicando que el tiempo de toma, aun es valido a pesar de ser más de lo recomendao. 
-A la hora de la siguiente............ 
+  Uno de los prototipos propuestos es un pastillero capaz de generar alarmas a las horas estipuladas para que el usuario tome su medicación. Se consideran tres tomas diarias: mañana, tarde y noche. En el momento adecuado, se encenderá un LED verde en la casilla correspondiente y sonará una melodía para llamar la atención del usuario.Al tomarse la pastilla el usuario ha de pulsar el botón de la parte superior del pastillero. Pasado un tiempo prudencial, volverá a sonar la melodía y la luz cambiará a naranja, indicando que el tiempo para tomar la medicación aún es válido, aunque ya se ha pasado del horario recomendado.
 
+  A la hora de la siguiente toma, la casilla anterior se volverá roja, indicando que ya no es aconsejable tomar la medicación de esa hora, y la casilla correspondiente a la nueva toma se volverá verde, reiniciando así el ciclo.
 ___
 
 ## Modo de funcionamiento
-1. Los LEDs estarán apagados, esperando a que el salero sea agitado
-1. Cuando se haga uso, el primer LED se encenderá y se mantendrá por una hora
+1. Los LEDs estarán apagados, esperando a la hora adecuada
+1. Cuando llegue el momento, la casilla correspondiente se iluminará de verde
 1. Si no se usa en ese tiempo, se apagará el LED y se activará el modo sleep indeterminadamente hasta que el usuario vuelva a hacer uso del salero, reiniciando la cuenta
 1. Si se usa antes de que pase la hora, se encenderá el segundo LED indicando que se ha aplicado 2 veces sal
 1. Se temporiza 1 hora de nuevo, esperándose a un nuevo uso o apagando los LEDs y volviendo a sleep mode si no se usa, reiniciando la cuenta
@@ -53,7 +53,7 @@ ___
 </div>
 
 > [!WARNING]
-> El salero siempre está encendido dado su bajo consumo de batería. Si se retira la batería, no volverá a funcionar hasta que se le ponga la batería de nuevo, se conecte a un cargador, o ambas. Desde ese momento, se iniciará automáticamente
+> El pastillero está diseñado para permanecer enchufado en todo momento. En caso de desconectarse, su funcionamiento se reiniciará, lo que hará que todas las casillas queden apagadas hasta que se active la alarma correspondiente.
 
 ___
 
@@ -63,17 +63,10 @@ ___
 
 | Componente | Unidades |
 | ------------- | ------------- |
-| Arduino NANO | 1 |
-| [PCB](https://github.com/99danirmoya/Salero-MdN/blob/main/pcb) | 1 |
-| Botón de inclinación | 1 |
+| ESP32 | 1 |
+| Buzzer | 1 |
 | Botón | 1 |
-| LED verde | 1 |
-| LED amarillo | 1 |
-| LED rojo | 1 |
-| Resistencias 2K2 | 3 |
-| Batería 18650 | 1 |
-| Porta-batería | 1 |
-| TP4056 | 1 |
+| Tira led | 21 LEDs |
 
 </div>
 
