@@ -42,13 +42,32 @@ ___
 ___
 
 ## Modo de funcionamiento
-1. Los LEDs estarán apagados, esperando a la hora adecuada
-1. Cuando llegue el momento, la casilla correspondiente se iluminará de verde
-1. Si no se usa en ese tiempo, se apagará el LED y se activará el modo sleep indeterminadamente hasta que el usuario vuelva a hacer uso del salero, reiniciando la cuenta
-1. Si se usa antes de que pase la hora, se encenderá el segundo LED indicando que se ha aplicado 2 veces sal
-1. Se temporiza 1 hora de nuevo, esperándose a un nuevo uso o apagando los LEDs y volviendo a sleep mode si no se usa, reiniciando la cuenta
-1. Si se usa, se añade el tercer LED indicando la tercera y última aplicación de sal. Obligatoriamente se temporiza 1 hora con ellos encendidos para apagarse y entrar en sleep mode después
-1. Se reinicia la cuenta dándose por entendido que la siguiente vez que se use el salero, será para la siguiente comida/cena
+### <p align="justify"> Flujograma </p>
+
+```mermaid
+graph TD;
+ graph TD;
+  A[Configuración inicial: LEDs apagados] -->|1| B(Hora de la toma)
+  B -->|2| C(Se enciende LED verde)
+  C -->|3| D(Suena melodía)
+  D -->|4| E(¿Se tomó la pastilla?)
+  E -->|5| F(No)
+  E -->|6| G(Sí)
+  F -->|7| H(Se enciende LED naranja)
+  H -->|8| I(Suena melodía nuevamente)
+  I -->|9| E
+  G -->|10| J(LEDs apagados hasta la próxima toma)
+  J -->|11| B
+  I -->|12| K(Siguiente hora de toma)
+  K -->|13| L(Casilla anterior: LED rojo)
+  L -->|14| B
+
+  
+```
+
+___
+
+<div align="justify">
 
 </div>
 
