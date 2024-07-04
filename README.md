@@ -3,7 +3,7 @@
 # <p align="center">Pastillero-MdN </p>
 
 <div align="center">
-  <img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/thumbnail_logo_blanco.png" width="100"><img src="https://github.com/99danirmoya/Salero-MdN/blob/main/pics/logo_mar-de-niebla-300x156.jpg" width="130">
+  <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/MediaLab_logo.png" width="100"><img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/MdN.png" width="130">
 </div>
 <br/>
 
