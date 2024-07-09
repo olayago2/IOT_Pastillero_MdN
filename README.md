@@ -100,7 +100,7 @@ A continuación, se muestra el esquemático para consultar conexiones:
 </div>
 
 <div align="center">
-  <img src="https://github.com/celiabarriocanal/Pastillero-MDN/blob/main/Imagenes/cabledo_comentado.jpg" width="1000"  style="margin: 10px;"/>
+  <img src="https://github.com/celiabarriocanal/Pastillero-MdN/blob/main/Imagenes/cabledo_comentado3.png" width="1000"  style="margin: 10px;"/>
   
   <em>Esquemático del pastillero </em>
 </div>
